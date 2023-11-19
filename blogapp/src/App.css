@@ -1,0 +1,48 @@
+/*Navbar CSS*/
+
+#blog{
+  margin-left: 3px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+.btn{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+/*login CSS*/
+
+.app{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center; /* Horizontal alignment */
+  align-items: center; /* Vertical alignment */
+    
+}
+.loginform{
+
+ width: 25%; /* Adjust the width as needed */
+padding: 10px;
+
+align-items: center;
+justify-content: center;
+color:purple
+
+}
+
+
+
+.text,.btn-log{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+/* SignUp CSS*/
+
+#sign{
+  color:purple ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+
+}
